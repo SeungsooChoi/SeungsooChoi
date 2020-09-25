@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![SeungsooChoi's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/SeungsooChoi/github-readme-stats)
+[![SeungsooChoi's github stats](https://github-readme-stats.vercel.app/api?username=SeungsooChoi)](https://github.com/SeungsooChoi/github-readme-stats)
 <!--
 **SeungsooChoi/SeungsooChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
