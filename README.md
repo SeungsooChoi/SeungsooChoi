@@ -1,8 +1,7 @@
 ### Hi there 👋 My name is Seungsoo
-I'm Frontend developer
+I'm Frontend developer,
 Interested in service
 
-🏊‍ love swim
 
 🌱As a developer, my dream is to create a service that various people can use meaningfully.
 <!-- [![SeungsooChoi's github stats](https://github-readme-stats.vercel.app/api?username=SeungsooChoi&theme=algolia)](https://github.com/SeungsooChoi/github-readme-stats) -->
